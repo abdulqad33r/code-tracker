@@ -1,6 +1,6 @@
 const textContainer = document.querySelector("div.text-container"),
-  // text = "Code is like humor. When you have to explain it, it's bad.",
-  text = "",
+  text = "Code is like humor. When you have to explain it, it's bad.",
+  // text = "",
   totalCharacters = text.replace(/\s/g, "").length
 
 //| Split the whole text into single characters excluding spaces
